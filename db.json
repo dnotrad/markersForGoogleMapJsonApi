@@ -1,6 +1,7 @@
 {
   "markers": [
-    { "lat": "1", "id":"1", "lng": "37.6206506756973", "title": "Театр1", "iconUrl":"https://static.tildacdn.com/tild3837-6161-4632-a463-663165646536/5279112-256_1.png"},
+    { "lat": "1", "id": "1", "lng": "37.6206506756973", "title": "Театр1", "iconUrl": "https://static.tildacdn.com/tild3837-6161-4632-a463-663165646536/5279112-256_1.png"
+  }
   ],
    "posts": [
     {
